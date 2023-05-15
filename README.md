@@ -4,7 +4,7 @@ SEW | CORE | Amazing Photo-App
 *As a photographer, I want to have an app for creating and listing photos, so that I can manage them in one place.*
 
 ### Acceptance Criteria
-- An app for taking and listing pictures is available.
+- A VueJS app for taking and listing pictures is available.
 - A state for displaying a gallery of pictures is available.
 - A state for taking a new picture is available.
 
