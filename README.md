@@ -5,8 +5,9 @@ SEW | CORE | Amazing Photo-App
 
 ### Acceptance Criteria
 - A VueJS app for taking and listing pictures is available.
-- A state for displaying a gallery of pictures is available.
-- A state for taking a new picture is available.
+- Use the Vue router for this app and define the following two states:
+  - A state for displaying a gallery of pictures is available.
+  - A state for taking a new picture is available.
 
 ### Hint
 - Use the Media Capture API: https://developer.mozilla.org/en-US/docs/Web/API/Media_Capture_and_Streams_API
